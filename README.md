@@ -5,3 +5,4 @@
 
 ## 주의사항
 * 비주얼 스튜디오 프로젝트 속성 -> 링커 -> 시스템 -> 큰 주소 처리를 <strong>예(/LARGEADDRESSAWARE)</strong>로 설정해야 함
+* 헤더파일 <strong>WindowsHWInfo.h</strong> 포함해야 함
