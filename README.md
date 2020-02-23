@@ -5,4 +5,5 @@
 ## 주의사항
 * 프로젝트 속성 -> 링커 -> 시스템 -> 큰 주소 처리를 <strong>예(/LARGEADDRESSAWARE)</strong>으로 설정해야 함.
 * 라이브러리 사용할 때는 <strong>WindowsHWInfo.h</strong> 헤더 include 하면 됨.
+* 릴리즈 파일에 .lib 파일 들어있더라도 꼭 다시 컴파일해서 사용해야 됨
 
